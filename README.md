@@ -1,5 +1,5 @@
 # Szabo_NG_2020
-Codes used to analyze microscopy images in Szabo et al., Nature genetics 2020.
+Codes used to analyze microscopy images in Szabo et al., Nature Genetics 2020.
 
 FISH_3D_analysis_QS.m
 
